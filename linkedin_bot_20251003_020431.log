@@ -1,0 +1,37 @@
+2025-10-03 02:04:31,495 - INFO - Initializing bot...
+2025-10-03 02:04:31,495 - INFO - Initializing Ollama with model: llama3
+2025-10-03 02:04:35,127 - INFO - 
+======================================================================
+2025-10-03 02:04:35,127 - INFO - ======================================================================
+2025-10-03 02:05:11,336 - ERROR - Login error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6a6951eb5+80197]
+	GetHandleVerifier [0x0x7ff6a6951f10+80288]
+	(No symbol) [0x0x7ff6a66d02fa]
+	(No symbol) [0x0x7ff6a66cd001]
+	(No symbol) [0x0x7ff6a66bda49]
+	(No symbol) [0x0x7ff6a66bf821]
+	(No symbol) [0x0x7ff6a66bdd66]
+	(No symbol) [0x0x7ff6a66bd7b7]
+	(No symbol) [0x0x7ff6a66bd47b]
+	(No symbol) [0x0x7ff6a66bafec]
+	(No symbol) [0x0x7ff6a66bb87c]
+	(No symbol) [0x0x7ff6a66d43ca]
+	(No symbol) [0x0x7ff6a67795de]
+	(No symbol) [0x0x7ff6a675037a]
+	(No symbol) [0x0x7ff6a67787fb]
+	(No symbol) [0x0x7ff6a6750153]
+	(No symbol) [0x0x7ff6a6718b02]
+	(No symbol) [0x0x7ff6a67198d3]
+	GetHandleVerifier [0x0x7ff6a6c0e83d+2949837]
+	GetHandleVerifier [0x0x7ff6a6c08c6a+2926330]
+	GetHandleVerifier [0x0x7ff6a6c286c7+3055959]
+	GetHandleVerifier [0x0x7ff6a696cfee+191102]
+	GetHandleVerifier [0x0x7ff6a69750af+224063]
+	GetHandleVerifier [0x0x7ff6a695af64+117236]
+	GetHandleVerifier [0x0x7ff6a695b119+117673]
+	GetHandleVerifier [0x0x7ff6a69410a8+11064]
+	BaseThreadInitThunk [0x0x7fff5818e8d7+23]
+	RtlUserThreadStart [0x0x7fff590c8d9c+44]
+

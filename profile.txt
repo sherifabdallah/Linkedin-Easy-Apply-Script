@@ -1,0 +1,51 @@
+name: Sherif Abdullah
+email: sherif.abdullah@vertowave.com
+phone: +201061403772
+location: Cairo, Egypt
+
+current_title: Senior Software Engineer
+years_experience: 2
+current_salary_in_egp: 25000
+current_salary_in_usd: 500
+expected_salary_in_egp: 30000
+expected_salary_in_usd: 700
+
+skills: Python, JavaScript, React, .NET, ASP.NET, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, REST APIs, Git, CI/CD, Agile, Frontend, Backend, Microservices, FullStack, Full Stack, Developer
+
+# Technology-specific experience (years) - SET TO 0 IF YOU DON'T KNOW
+python_experience: 2
+javascript_experience: 2
+react_experience: 2
+vue_experience: 0
+angular_experience: 0
+dotnet_experience: 2
+aspnet_experience: 2
+nextjs_experience: 2
+sql_experience: 2
+aws_experience: 2
+docker_experience: 2
+kubernetes_experience: 2
+node_experience: 1
+java_experience: 0
+typescript_experience: 2
+
+education: Bachelor of Science in Computer Science, MTI University
+education_level: Bachelor's Degree
+
+linkedin: https://www.linkedin.com/in/sherif-abdullah-b94385236/
+github: https://github.com/sherifabdallah
+website: https://sherifabdallah.vercel.app/
+
+resume_path: C:/Users/Sherif Abdullah/Downloads/Linkedin-Easy-Apply-Script/Sherif_Abdullah_CV.pdf
+
+# Work Experience
+work_experience: Senior Software Engineer at VertoWave (2024-Present) - Led development of microservices architecture serving 10M+ users, reduced API response time by 60% through optimization, mentored team of 5 junior developers
+
+# Availability & Preferences - IMPORTANT FOR RADIO BUTTONS
+notice_period: 1 month
+available_to_start: 30 days
+willing_to_relocate: yes
+requires_sponsorship: no
+willing_to_commute: yes
+remote_preference: hybrid
+english_level: Professional

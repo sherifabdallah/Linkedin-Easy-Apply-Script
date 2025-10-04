@@ -1,0 +1,20 @@
+2025-10-03 01:56:58,191 - INFO - Initializing bot...
+2025-10-03 01:56:58,199 - INFO - Initializing Ollama with model: llama3
+2025-10-03 01:57:01,721 - INFO - 
+======================================================================
+2025-10-03 01:57:01,726 - INFO - ======================================================================
+2025-10-03 01:57:40,899 - INFO - 
+======================================================================
+2025-10-03 01:57:40,899 - INFO - ======================================================================
+2025-10-03 01:57:42,461 - INFO - Found 20 job listings using selector: div.job-card-container
+2025-10-03 01:57:42,461 - INFO - Found 20 jobs on this page
+2025-10-03 01:57:42,468 - INFO - 
+--- Job 1/20 ---
+2025-10-03 01:57:42,578 - INFO - 
+======================================================================
+2025-10-03 01:57:42,581 - INFO - ======================================================================
+2025-10-03 01:58:23,166 - WARNING - AI attempt 1 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-10-03 01:58:57,221 - WARNING - AI attempt 2 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-10-03 01:59:31,299 - WARNING - AI attempt 3 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-10-03 02:00:09,939 - WARNING - AI attempt 1 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+2025-10-03 02:00:50,230 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9A0FA4500>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1918364c44f5e37fcec15102c6d36934
